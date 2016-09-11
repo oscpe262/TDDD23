@@ -6,35 +6,6 @@ Wizard Arcade is a retro strategic maze-based arcade-style game, where the play-
 er(s) battle each other or the AI inside a single-screen arena. The aim is for
 the player to score victories by blowing the opponents to bits through spells.
 
-
-+------------------------------------+  
-
-|+----------------------------------+|  
-
-||P 	  			    ||  
-
-||  |  	    |	 --------------	 |  ||  
-
-||  |  	    |	 		 |  ||  
-
-||  |  -----+----    +---------	 |  ||  
-
-||  |	    |	     |	       	 |  ||  
-
-||  +-----  |	     |	    |	    ||  
-
-||	     	     | 	----+----   ||  
-
-||  --------------   |	    |	    ||
-
-||	     	       	       	 P  ||
-
-|+----------------------------------+|
-
-+------------------------------------+
-
-`Fig.1 Game Idea Concept Drawing`
-
 # Game Tech
 The game will be developed in Unity.
 
